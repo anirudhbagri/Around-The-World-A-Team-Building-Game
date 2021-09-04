@@ -1,4 +1,4 @@
-# Around-The-World-A-Team-Building-Game
+# Around The World: A Team Building Game
 
 Around the world is an outdoor team building game which can be played with any number of players.
 All players then form teams, preferably with minimum 4 people.
