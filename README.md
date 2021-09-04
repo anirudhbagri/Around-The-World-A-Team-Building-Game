@@ -21,3 +21,13 @@ Once all the placards are in position and the players are ready, the host will �
 Each placard has two columns, “Source” and “Destination”, the players start with their starting city, finds out where is the destination for that city and then tries to find the next destination for that city. In the mean, the leader is responsible for noting down the travel journal.  The players can use any way to communicate the route to their leader, except any electronic medium. No player should touch the placard.
 
 The game ends when the team reaches its origin city.  The host then check for the correctness of the route and the first team to complete the tour by covering all the locations wins the game.
+
+
+# Example
+
+For the given scenario, the first team to complete the journey with the following route will win the game
+
+`NA -> PQ -> HP -> TW -> NA`
+
+![image](https://user-images.githubusercontent.com/16250629/132100855-f4ca0954-6da0-4675-bba8-769a16ee5ee4.png)
+
